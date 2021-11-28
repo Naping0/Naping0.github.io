@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about me!
-
 ### More Information
 
 I am a student studying digital economy at King's College London. I am studying The Cultural Web course. This is my blog.
