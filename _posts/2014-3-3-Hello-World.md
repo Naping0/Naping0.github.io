@@ -5,7 +5,7 @@ title: About the Hansard
 
 Hansard is the official record of debates in the UK Parliament. The website contains every word of every parliamentary debate since 1909. At the same time, the update speed of the website is very timely, basically the information can be updated on the same day or the next day. So Hansard can help people do some research very well.
 
-![_Hansard.pgn]({{ site.baseurl }}/images/config.png)
+![_Hansard.pgn]({{ site.baseurl }}/images/Hansard.png)
 
 First and foremost, the website is very suitable for people to understand the procedures and related content of the parliament. The UK parliamentary debate is a democratic debate. A lot of debate is about the proposed law. Some debates involve important domestic or international issues, while others involve important local issues in certain regions of the country. Hansard's record can be a tool for people to understand the intent behind the legislation. Therefore, Hansard can help people study international current affairs and the formulation of national policies.
 
