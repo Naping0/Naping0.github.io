@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a student studying digital economy at King's College London. I am studying The Cultural Web course. This is my blog.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[K21021093@kcl.ac.uk](K21021093@kcl.ac.uk)
