@@ -1,16 +1,14 @@
 ---
 layout: post
-title: About the Hansard
+title: The Poetry Archive
 ---
 
-Hansard is the official record of debates in the UK Parliament. The website contains every word of every parliamentary debate since 1909. At the same time, the update speed of the website is very timely, basically the information can be updated on the same day or the next day. So Hansard can help people do some research very well.
+The Poetry Archive is a free web-based library used to save recordings of English poets reading their own works. The archive houses more than 20,000 poems and ensures that the recordings are safe and easy to access so that current and future visitors can enjoy them. Each poet's work is surrounded by contextual information and biography, and has become a valuable resource for anyone looking for poetry.
 
-![_Hansard.pgn]({{ site.baseurl }}/images/Hansard.png)
+The site now also includes collections of classic poems being read by contemporary poets and famous voices (including Helen Mirren, Stephen Fry, Judy Dench, and Alan Rickman). When the poet dies without recording, a precious resource is lost forever. As time goes by, the feeling of loss becomes stronger and stronger. By recording poets’ reading of their own works, the Poetry Archives preserves unique and valuable voices for future generations, otherwise these voices may be lost. The collections of the Poetry Archives bring poetry into homes and classrooms, provide valuable educational resources, and protect and preserve an important part of our social and cultural history.
 
-First and foremost, the website is very suitable for people to understand the procedures and related content of the parliament. The UK parliamentary debate is a democratic debate. A lot of debate is about the proposed law. Some debates involve important domestic or international issues, while others involve important local issues in certain regions of the country. Hansard's record can be a tool for people to understand the intent behind the legislation. Therefore, Hansard can help people study international current affairs and the formulation of national policies.
+The archive also includes a large amount of materials for teachers and students, including glossaries, biographies, and lesson plans integrated into school resources. And also established a children's poetry website. The Children’s Poetry Archive website for children aged 6-12 includes poems read by poets who wrote poems and poems recorded by others. It also has a "My Profile" function, allowing visitors to create their own playlists, and visitors can search by subject or age group. The benefits of listening to poets reading their own works aloud are far-reaching. Children are born to listen to the rhythm and rhythm of poetry and have fun from it. The Children’s Poetry Archives will ensure that future generations meet children’s needs for poetry.
 
-What is more, the website can be used to conduct research on the history of parliament. Hansard's record is equivalent to an online digital collection. It records every UK in every parliamentary debate in UK since 1909. Hansard also reports timely and accurately the decisions made during the meeting and records how members voted to reach these decisions. Both the history of parliament and the history of UK legislation are good sources of information.
+![_Children.pgn]({{ site.baseurl }}/images/Children.png)
 
-Finally, the information on this website is suitable as research material for debate techniques. Most things in the parliament are dealt with in the form of debates. The words of both sides of the British parliamentary debate are very persuasive because vague discussions will only waste time. It is the top level of debate for the debate competition. Hansard did not omit any content to increase the meaning of the speech or explain the argument. Therefore, the information in the webpage can be used as learning materials for debate players.
-
-If you want to visit this page, here is the website address. [Hansard](https://hansard.parliament.uk/) 
+If you want to visit this page, here is the website address. [The Poetry Archive](https://poetryarchive.org/) 
